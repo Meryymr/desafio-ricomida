@@ -1,0 +1,67 @@
+* {
+    font-family: "Lobster", sans-serif;
+    font-family: "Cabin", sans-serif;
+}
+
+nav {
+    background-color: #373A3C;
+    ;
+}
+
+h1 {
+    padding-right: 30%;
+}
+
+@media (max-width: 765px) {
+    h1 {
+        padding-right: 0%;
+    }
+}
+
+.navbar-brand {
+    font-family: "Lobster", sans-serif;
+    font-size: 37pt;
+}
+
+ul li {
+    list-style-type: none;
+    font-family: "Cabin", sans-serif;
+}
+
+.food {
+    height: 150px;
+    object-fit: cover;
+
+}
+
+.card {
+    margin-right: 30px;
+}
+
+.card-container:last-child {
+    margin-right: 0px;
+}
+
+#us {
+    background-color: #DC3545;
+    color: #FFFFFF;
+}
+
+#us span {
+    font-family: "Lobster", sans-serif;
+
+}
+
+#us button {
+    margin-bottom: 150px;
+    width: 200px;
+}
+
+footer p {
+    font-family: "Lobster", sans-serif;
+    color: #FFFFFF;
+    background-color: #373A3C;
+    margin-bottom: 0;
+
+
+}
